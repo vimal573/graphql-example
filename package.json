@@ -11,6 +11,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@graphql-tools/load-files": "^7.0.0",
+    "@graphql-tools/schema": "^10.0.12",
     "express": "^4.21.2",
     "graphql": "^16.9.0",
     "graphql-http": "^1.22.3"
